@@ -1,3 +1,24 @@
 remote_theme: "mmistakes/minimal-mistakes"
-title: Your Site Title
+
+---
+layout: default
+title: Gelila's Spring 2024
 description: A brief description of your site.
+
+---
+
+# Welcome to Gelila's Spring 2024 Page!
+
+Hello! My name is Gelila. I am a junior majoring in data science and computer science. This repository is where I will put all my projects and homework for two of my classes - DATA340 and DATA441. This is so I can get accustomed to using Git and my terminal.
+
+## DATA441:
+
+- [HMW 2](Files/Homework2.ipynb)
+
+## DATA340:
+
+<!-- Add project links here -->
+
+<footer>
+  <!-- Gelila Yimtatu -->
+</footer>
